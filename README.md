@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rolo-solo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python with PyCHarm
+- 🌱 I’m currently learning Python with PyCharm
 - 💞️ I’m looking to collaborate on here
 - 📫 How to reach me is best on here for now.
 
